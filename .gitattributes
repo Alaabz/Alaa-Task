@@ -31,46 +31,37 @@
   <ul>
   the ability to think logically
   </ul>
-  <a href="insta: @alol_bz - pinterest: @alaabinzagr"> Twitter
-  </a>
-  ||
-  <a href="insta: @alol_bz - pinterest: @alaabinzagr"> Insta
-  </a>
   <hr>
   </hr>
   <form>
     <label> Full Name</label> <input type="text" placeholder="Your full name">
-    <br></br>
+
     <label> Email </label> <input type="text" placeholder="Your Email">
-    <br></br>
+
     <label> Country </label>
-    <br></br>
+
     <select>
       <option>KSA</option>
       <option>UAE</option>
     </select>
-    <br />
-    <br />
+
     <label><b> Please select your age:</b></label>
-    <br />
+
     <input type="radio"> 18-25
-    <br />
+
     <input type="radio"> 25-35
-    <br />
+
     <input type="radio"> 35-60
-    <br />
-    <br />
+
     <b> You want to learn:</b>
-    <br />
+ 
     <input type="checkbox"> HTML
-    <br />
+ 
     <input type="checkbox">CSS
-    <br />
+   
     <input type="checkbox"> JavaScript
-    <br />
-    <br />
-    <b> Message: </b><br />
-    <br />
+  Message: 
+   
     <button type="submit">Submit</button>
   </form>
 
