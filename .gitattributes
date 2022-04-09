@@ -19,7 +19,6 @@
   <img src="https://i.pinimg.com/564x/29/ff/03/29ff03839aed94495275881541d8b772.jpg" style="height:400px">
   <p> I'm working as IT, my hobbies are paniting and drawing, I'm goining to the gym everyday to make my life more healthy. and I want to devalop my skills by learning more subjects about IT filed, to encres my experince
   <p>
-  <h2 style="color:rgb(73, 105, 73)";>Skills</h2>
   <ul>
   analytical skills
   </ul>
@@ -32,9 +31,6 @@
   <ul>
   the ability to think logically
   </ul>
-  <h3 style="color:rgb(73, 105, 73)";> you can contact me through my email: alaa.binzagr@gmail.com
-  </h3>
-  <h1 style="color:rgb(26, 46, 26)";> Find Me On </h1>
   <a href="insta: @alol_bz - pinterest: @alaabinzagr"> Twitter
   </a>
   ||
@@ -43,7 +39,6 @@
   <hr>
   </hr>
   <form>
-    <h2 style="color:rgb(126, 168, 63)";> Contact with me </h2>
     <label> Full Name</label> <input type="text" placeholder="Your full name">
     <br></br>
     <label> Email </label> <input type="text" placeholder="Your Email">
@@ -75,8 +70,6 @@
     <br />
     <br />
     <b> Message: </b><br />
-    <textarea style="height:100px">
-  </textarea>
     <br />
     <button type="submit">Submit</button>
   </form>
