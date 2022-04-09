@@ -34,12 +34,6 @@
   <hr>
   </hr>
   <form>
-    <label> Full Name</label> <input type="text" placeholder="Your full name">
-
-    <label> Email </label> <input type="text" placeholder="Your Email">
-
-    <label> Country </label>
-
     <select>
       <option>KSA</option>
       <option>UAE</option>
